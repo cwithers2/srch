@@ -1,0 +1,17 @@
+{
+    "browser"     : "xdg-open",
+    "default"     : "DuckDuckGo",
+    "search_menu" : "dmenu -p search",
+    "engine_menu" : "dmenu -p engine -i",
+    "bangs" : {
+        "DuckDuckGo"    : "!?",
+        "Google"        : "!g",
+        "Wikipedia"     : "!w",
+        "Amazon"        : "!a",
+        "StackOverflow" : "!ov",
+        "YouTube"       : "!yt",
+        "Python3 Docs"  : "!py3",
+        "C++ Ref"       : "!cpp",
+        "Reddit"        : "!r"
+    }
+}
