@@ -10,7 +10,7 @@ With _srch_ you can select which search engine to use for every search, _quickly
 - automatically sort search engines by number of times used (alphabetically on ties)
 
 ## Dependencies
-- Python module `XDG`
+- python3-xdg
 - `dmenu` is called by default, but [`rofi`](https://github.com/davatorium/rofi) can be configured for use in its place.
 
 ## Installing
