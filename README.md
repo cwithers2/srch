@@ -1,6 +1,8 @@
 # srch.py
 _srch_ is a power tool that combines the web-searching power of [_bangs_](https://duckduckgo.com/bang) with the speed and ease of the [`dmenu`](https://tools.suckless.org/dmenu/) GUI.
 
+![](https://media.giphy.com/media/57sBXVtmPpGGcWhxp6/giphy.gif)
+
 ## Features
 - high configurability
 - automatically sort bangs by number of times used (alphabetically on ties)
