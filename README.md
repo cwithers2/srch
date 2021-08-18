@@ -1,7 +1,9 @@
 # srch.py
 A power tool to choose which search engine to use for every search, _quickly_.
 
-![](https://media.giphy.com/media/57sBXVtmPpGGcWhxp6/giphy.gif)
+| ![](https://media.giphy.com/media/57sBXVtmPpGGcWhxp6/giphy.gif) |
+|:--:|
+| *Searching for 'filter bubble' on Wikipedia* |
 
 _srch_ combines the web-searching power of [_bangs_](https://duckduckgo.com/bang) with the speed and ease of [`dmenu`](https://tools.suckless.org/dmenu/).
 
